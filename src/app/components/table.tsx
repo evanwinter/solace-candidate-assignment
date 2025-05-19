@@ -79,8 +79,6 @@ export function AdvocatesTable() {
       style={{
         width: "100%",
         overflowX: "auto",
-        borderRadius: "0.5rem",
-        border: "1px solid #eaeaea",
       }}
     />
   );
